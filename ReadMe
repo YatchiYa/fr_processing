@@ -1,0 +1,5 @@
+to install : 
+  - pip install -r requirements.txt
+  - jupyter-notebook.exe
+  - navigate to notebook folder and select notbook files one by one, first than second ...
+  - execute step by step each file
