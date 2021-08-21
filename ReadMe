@@ -2,6 +2,7 @@ to install :
   - create a folder test 
   - cd test
   - py -m venv env (create a new environement python)
+  - source env/Scripts/activate
   - git clone git repository
   - cd ft_processing
   - pip install -r requirements.txt
