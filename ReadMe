@@ -1,4 +1,9 @@
 to install : 
+  - create a folder test 
+  - cd test
+  - py -m venv env (create a new environement python)
+  - git clone git repository
+  - cd ft_processing
   - pip install -r requirements.txt
   - jupyter-notebook.exe
   - navigate to notebook folder and select notbook files one by one, first than second ...
